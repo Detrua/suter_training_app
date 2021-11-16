@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Suter Training</string>
+    <string name="termin">Termin</string>
+    <string name="termin_buchung">Termin Buchung</string>
+    <string name="training_suter_image">training_suter_image</string>
+
+</resources>
